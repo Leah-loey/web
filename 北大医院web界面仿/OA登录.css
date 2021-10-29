@@ -1,0 +1,57 @@
+@charset "utf-8";
+ boby
+    {
+		width:1200px;
+		height:800px;
+		text-align:center;
+	}
+	#main
+	{
+		margin:0 auto;
+		width:703px;
+		height:450px;
+		background:#FFD9EC;
+		border-radius:10px 10px 10px 10px;
+		margin-top:200px;
+		border:1px solid #C1FFFF;
+	}
+	.a
+	{
+		width:701px;
+		height:80px;
+		background:#FFD9EC;
+		border-radius:10px 10px 0px 0px;
+		font-family:"华文行楷";
+		font-size:24px;
+		color:#333;
+		margin-top:1px;
+		margin-left:1px;
+
+	}
+	.a img
+	{
+		margin-top:15px;
+		margin-left:180px;
+		padding-right:10px;
+	}
+	.a1
+	{
+		width:700px;
+		height:345px;
+		background-image:url(images/%E7%99%BB%E5%BD%95%E8%83%8C%E6%99%AF.jpeg);
+		text-align:center;
+		margin-left:2px;
+		border:1px solid #C1FFFF;
+
+	}
+	.a1 img
+	{
+		margin-left:12px;
+	}
+	.a2
+	{
+		text-align:center;
+		color:#666;
+		font-size:14px;
+		margin-top:2px;
+	}
